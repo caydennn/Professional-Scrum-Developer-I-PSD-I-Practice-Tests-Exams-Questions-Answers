@@ -3049,8 +3049,38 @@ Choose one answer
 integrated increments? Choose one answer
 
 - [ ] Each Development Team works only on one technical layer of the system (e.g. GUI, Database, Middle tier, interfaces)
-- [ ]  Each Development Team develops functionality from beginning to end throughout all technical layers
+- [x]  Each Development Team develops functionality from beginning to end throughout all technical layers
 
 
 
 
+### Why trust on and within the scrum team is important? (choose the best option)
+
+- [ ] High trust teams do not have to be accountable to each other during sprint execution.
+- [ ] High trust teams do not require a user or business representative during sprint execution. 
+- [ ] The Project owner does not have to keep a project schedule during sprint execution.
+- [x] The presence of trust is positively correlated with team performance & motivation.
+
+### What should the developers do during a sprint if the product owner is unavailable? (choose the best option)
+
+- [ ] Continue the work as per his/her understanding, record the assumptions and ask the product owner - [ ] later once available.
+- [ ] Raise a risk that the end product may not complete on time and may not meet business needs as - [ ] the Product Owner is unavailable.
+- [ ] Make the Business Analyst as a Proxy Product Owner during the unavailability period.
+- [x] Bring the impediment to Scrum Master’s notice so that he/she can take appropriate action.
+- [ ] Development of functional requirements stops until the product owner is available again but the - [ ] Non-Functional requirement can continue.
+
+
+### Continuous improvement processes happen on two levels; 
+- one being continuous process improvement such as PDCA, 
+- and the other being: (Choose the best option)
+
+- [x] Incremental delivery.
+- [ ] Retrospectives.
+- [ ] Knowledge sharing.
+- [ ] Process tailoring
+
+### What is the shared understanding by the Product Owner and the Developers regarding the preferred level of description of PBIs introduced at Sprint Planning? (choose the best option)
+- [x] Definition of Ready.
+- [ ] Definition of Done.
+- [ ] Sprint Goal.
+- [ ] Product Backlog Refinement.
