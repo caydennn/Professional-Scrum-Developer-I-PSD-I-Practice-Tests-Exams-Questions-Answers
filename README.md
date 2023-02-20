@@ -3420,3 +3420,46 @@ integrated increments? Choose one answer
 - [x] Discover decisions to be made as soon as possible but postpone making those decisions until the latest reasonable moment
 
 - [ ] (CAN CHOOSE THIS TOO IF MORE THAN ONE OPTION) The last moment in a sprint when code changes are allowed, after this only stabilization work should be conducted.
+
+### You are Scrum Master and the current Sprint will complete in 8 days. You are creating a meeting invite for the Sprint Review to demo the items completed in the Sprint. Who should you invite as a required attendee to the Sprint Review?
+ 1. Product Owner 2. Developers 3. Business User
+- [ ] 1, 2, and 3.
+- [x] 1 and 2 only.
+- [ ] The entire company.
+- [ ] 1 only
+
+
+### You are the Scrum Master. The Sprint will complete in two days. Each day of the Sprint is equivalent to 8 hours. The team has just enough time to complete all tasks in the remaining 16 hours with the exception of three tasks. Of these three tasks, two tasks (a total of 6 hours) are required to complete one Product Backlog item and one task (an estimate of 2 hours) is required to complete another Product Backlog item. How should the developers handle the remaining three tasks? (choose the best option)
+- [x] The developers should place the two Product Backlog items back onto the Product Backlog.
+- [ ] The developers should work the extra 8 hours to complete their commitment to the Product Owner.
+- [ ] The developers should keep the three tasks on the Sprint Backlog for the next Sprint and complete those tasks first.
+- [ ] The developers should negotiate with the Product Owner on the definition of "done".
+
+### What is NOT reflected in a Sprint Burndown Chart? (choose the best option)
+- [ ] Work Hours Remaining.
+
+- [x] The number of Tasks Remaining.
+
+- [ ] Total Days in Sprint.
+
+- [ ] Day of Sprint.
+
+### Burn-up and Burn-down charts show the evolution of progress over time. In particular, (choose the best option)
+- [ ] Burn-up shows an increase in turn-around time, while Burn-down shows a decrease in turnaround time.
+
+- [ ] Burn-up shows an increase in team velocity, while Burn-down shows a decrease in velocity.
+
+- [x] Burn-up shows an increase in completion, while Burn-down shows remaining effort.
+
+- [ ] Burn-up shows an increase in team productivity, while Burn-down shows a decrease in productivity.
+
+### The Product Backlog is an emergent, ordered list of what is needed to improve the product. How to know that a product backlog item has been refined sufficiently? (choose the best two options)
+- [ ] If it is not required to be re-estimated or put back on the Product Backlog at the end of the sprint.
+
+- [ ] As the Product Backlog is owned by the Product Owner, it depends on the Product Owner to decide the level of refinement.
+
+- [ ] When it meets the definition of done defined by the scrum team.
+
+- [x] When it is small enough to be done within a Sprint, they are deemed to be “Ready”.
+
+- [x] When the details are sufficient so that the developers can commit to doing so and can estimate it.
