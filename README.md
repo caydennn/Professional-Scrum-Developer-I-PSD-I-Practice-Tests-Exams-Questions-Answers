@@ -384,6 +384,16 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 280 | [True or False: Test-Driven Development is a predictable way to develop working, well-organized code?](#true-or-false-test-driven-development-is-a-predictable-way-to-develop-working-well-organized-code) |
 
 
+## Time Boxed Events
+| **Event**                  | **4 Weeks** | **2 Weeks** | **1 Week** |   |
+|----------------------------|-------------|-------------|------------|---|
+| Sprint Planning (5%)       | 8 hours     | 4 hours     | 2 hours    |   |
+| Daily Scrum                | 15 min      | 15 min      | 15 min     |   |
+| Sprint Review (2.5%)       | 4 hours     | 2 hours     | 1 hour     |   |
+| Sprint Retrospective       | 3 hours     | 1.5 hours   | 45 min     |   |
+| Product Backlog Refinement | 16 hours    | 8 hours     | 4 hours    |   |
+
+
 ### When can Product Backlog Refinement occur?
 
 - [ ] Only during Sprint Planning.
@@ -3026,8 +3036,7 @@ _[⬆ Back to Top](#table-of-contents)_
 - [x] Measuring branching structures and nesting levels in code.
 
 
-### Which are the best three criteria to include in a Development Team’s defini‐
-tion of “Done”? Choose 3 answers.
+### Which are the best three criteria to include in a Development Team’s definition of “Done”? Choose 3 answers.
 
 - [ ] Regressoin Tests pass
 - [x] No impediments exist
@@ -3084,3 +3093,286 @@ integrated increments? Choose one answer
 - [ ] Definition of Done.
 - [ ] Sprint Goal.
 - [ ] Product Backlog Refinement.
+
+### A team is working on cutting-edge technology and does not have a lot of familiarity with the technical environment. As a result, it is struggling to estimate a complex story because the approach itself is not clear. How should the team proceed? (choose the best option)
+- [ ] Make a suitable assumption and proceed with planning after setting clear expectations that there is no guarantee about the estimates.
+- [x] Write a SPIKE story and time box it before accepting the main story for planning.
+- [ ] Cancel the Sprint and send the entire team for technical training so that such issues can be avoided in the future.
+- [ ] Defer the story and first pick up stories that are clearer to the team.
+
+###  A comprehensive branching and merging model in shared version control reduces the coordination problems when multiple teams are working on the same code?
+- [ ] True
+- [x] False
+
+### As per Scrum Sprints should have consistent durations throughout the development effort. Which factors should be considered while establishing Sprint length for a scrum team? (choose the best three options)
+- [x] The level of uncertainty over the new and potentially risky technology to be used by the scrum team while developing the work product.
+
+- [x] The risk of being disengaged from the stakeholders during the execution of the work product.
+
+- [x] The ability and timeline to go market with the product release.
+
+- [ ] The number of holidays and team members planned vacations during the period of execution of the work product.
+
+- [ ] It should be dependent on Business criticality and should be long enough to make sure Developers can deliver what is to be accomplished during Sprint.
+
+- [ ] The frequency at which team formation can be changed keeping in sync with organizational standards.
+
+### The breakdown process of Product Backlog items into detailed tasks is called? (choose the best option)
+
+- [x] Sprint Planning
+- [ ] Sprint Retrospective.
+- [ ] Sprint Review.
+- [ ] Product Backlog Refinement.
+
+### When is the Definition of Done for the first time used by the Developers? (choose the best option)
+
+- [x] During the estimation of the features in the Product Backlog, the work depends on the requirements of both the features and the Definition of Done.
+
+- [ ] During the Daily Stand-up when a feature is defined as Done since each feature must be checked for readiness as soon as it is finished during the Sprint.
+
+- [ ] During the Demo to the Product Owner and the Stakeholders, since they have to accept the product as a potentially shippable product.
+
+- [ ] During the Release Sprint, in which it is confirmed that all the features created are according to the customer wishes and thus shippable.
+
+### In Scrum should Developer volunteer to own Sprint Backlog items once they are available during sprint execution? (choose the best option)
+
+- [x] No, Sprint Backlog items are owned by all Developers.
+
+- [ ] Yes, as needed, while taking into account the short-term reduction in productivity due to volunteering.
+
+- [ ] Yes, during the Sprint planning or daily scrum meeting team member should volunteer to own Sprint Backlog items.
+
+- [ ] Yes, whenever a team member can accommodate more work as per the availability during sprint execution.
+
+- [ ] No, even though sprint backlog is owned by developers, product owner should be consulted before pulling any item from it.
+
+
+### An organization is transitioning to Scrum. The Agile coach is planning for a few training sessions for developing the ability to succeed in Scrum methodologies. Which of the following training is the most relevant for programmers and developers of the organization? (choose the best option)
+- [ ] Design patterns and architecture.
+
+- [x] Evolutionary design.
+
+- [ ] Scrum Master training.
+
+- [ ] Team working.
+
+### If testing work does not occur as part of the development work within the Sprint execution, which benefits of Scrum are lost? (Choose the best  three options)
+- [x] The increment is probably not releasable.
+- [x] Future Sprints will probably be interrupted with bugs that are being found.
+- [x] The indication of progress on the Product Backlog is not transparent.
+- [ ] The project manager cannot effectively update the plan.
+- [ ] Final sign-off before an increment can be shipped or deployed will be delayed.
+- [ ] Independent test of the increment will be lost
+
+### Scrum is a project management framework for agile software development.
+- [ ] True
+- [x] False
+
+### What is a key feature of documentation in an agile project? (choose the best option)
+
+- [ ] System documentation is created at the end of each increment and during the beginning of the deployment or product release.
+- [ ] User Stories are held in a spreadsheet or database, where full details of user conversations are recorded for future purposes, like handover documents to the maintenance or support teams.
+- [x] User Story cards containing only enough detail for planning and development, which will need to be supplemented by further face-to-face conversations during the execution of iteration/sprint.
+- [ ] No written documentation is required, as all good communication is face-to-face in agile.
+- [ ] As working software is more important than comprehensive documentation, documents should not be a key feature of documentation
+
+
+### What should the developers do during a sprint if the product owner is unavailable? (choose the best option)
+- [ ] Continue the work as per his/her understanding, record the assumptions and ask the product owner later once available.
+- [ ] Raise a risk that the end product may not complete on time and may not meet busi ness needs as the Product Owner is unavailable.
+- [ ] Make the Business Analyst as a Proxy Product Owner during the unavailability period.
+- [x] Bring the impediment to Scrum Master’s notice so that he/she can take appropriate action.
+- [ ] Development of functional requirements stops until the product owner is available
+- [ ] again but the Non-Functional requirement can continue.
+
+### A Scrum team has been assigned a new project and decides to add the following statement to the Definition of Done: Only features for which a functional design is drafted and accepted are put on the Sprint Backlog. The Scrum Master reviews this and states: Documentation is needed. For each feature, the design should be created or updated. We need to add to the Definition of Done and keep this in mind when estimating tasks for the next Sprint Backlog. Why does the Scrum Master say this? (choose the best option)
+- [x] Because the documentation can be created and adjusted per feature.
+- [ ] Because the Customer is valued over documentation in Agile development.
+- [ ] Because the Scrum Master knows if the team has time to implement this.
+- [ ] Because the Sprint Backlog gives enough information to do this quickly.
+
+### The Product Owner introduced new features planned for the next sprints during the sprint review. One subject matter expert reminds us that some of the features imply important non-functional requirements that can be subject to external audits. The Scrum Team did not consider those non-functional requirements.  What can be done to handle such urgent concerns? (Choose the best two options)
+- [ ] NFRs are identified and documented in parallel sprints and once the analysis is done applied to the already done work before future features will be added.
+- [ ] The impact of those urgent concerns on the work already done and the future work will be determined before the new sprint so that related PBIs will be given to the PO before starting the next sprint.
+- [ ] We give everything to a specialist team in a parallel sprint and they will sort out everything.
+- [x] During the retrospective adjust DoD & if needed invite other people to attend Sprint Planning to provide advice.
+- [x] NFRs are added to the Product backlog and resolved during the next sprints combined with enhancing new features, no matter how small the new feature is.
+
+
+### Developers are ready to start the first Sprint but the Product Backlog is incomplete. What is the best thing the Product Owner should do? (choose the best option)
+- [ ] Let the Sprint begin, but only with the goal of completing the Product Backlog refinement.
+- [ ] Ask the developers to help you refine the Product Backlog instead of starting the first Sprint.
+- [x] Let the team start the first Sprint, and continue refining the Product Backlog.
+- [ ] Refine the product backlog when the team is done with their current Sprint and is ready to start planning the next sprin 
+
+### What is the primary objective of the daily scrum meeting? (choose the best two options)
+
+- [x] To inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary, adjusting the upcoming planned work.
+- [ ] To provide a status report on what each member has completed in the Sprint, what each member will work on next, and to report progress toward sprint goal and road‐ blocks so that Scrum Master can work to remove those.
+- [ ] To discuss work details with the team since other team members can provide their input to make the product better.
+- [ ] To discuss the recommended ways to work better in the Sprint & receive feedback from the Product Owner.
+- [x] An opportunity to improve communications, identify impediments, promote quick decision-making, and consequently eliminate the need for other meetings.
+- [ ] To eliminate the need of meeting any other time of the day for more detailed discussions about adapting or re-planning the rest of Sprint’s work.
+
+### A stakeholder brought a major security concern in the product during the current sprint execution. Choose the most appropriate options which should be considered by Scrum Team to address these security concerns? (choose the best two options)
+- [ ] Postpone the work until a technical specialist can perform a security audit and create a list of security-related Product Backlog items.
+- [x] Security concerns should be added to the Definition of Done (DoD).
+- [x] Product Owner should create Product Backlog item(s) for all security concerns.
+- [ ] Delegate the work to the concerned department which handles security concerns.
+- [ ] The impact of these security concerns on past and future work needs to be determined before starting new Sprints.
+
+
+### What is the maximum length of a Sprint in Scrum? (choose the best option)
+- [ ] Not so long that other business events can't be readily synchronized with the development work.
+- [ ] One calendar month or less.
+- [ ] Not so long that the risk is unacceptable to the Product Owner.
+- [x] All of the above.
+
+### True or False, A high count Lines of Code metric might indicate that a type or method is doing too much work.
+- [x] True
+- [ ] False
+
+### What are the important characteristics of a good Product Backlog item which can be considered as “Ready” for Sprint Planning? (choose best three options)
+- [ ] Product Backlog item which can be developed within one Sprint even if tested in the another Sprint.
+
+- [x] Product Backlog items will be finished as per Definition of Done within one Sprint.
+
+- [x] Product Backlog item which is at the top of the Product Backlog.
+
+- [x] Product Backlog items that are sufficiently refined & clearly expressed.
+
+- [ ] Definition of Ready as defined by the Product Owner.
+
+- [ ] Product Backlog item which is at or towards the bottom of the Product Backlog.
+
+
+### Daily scrum meeting is critical event in the scrum framework. What is the role of a Scrum Master during Daily Scrum? (choose the best option)
+- [ ] Ensure that each developer has a chance to speak during daily scrum meetings.
+- [x] Coach the Developers to finish the Daily Scrum within the allotted 15-minute time box.
+- [ ] Facilitate discussions of the Developers.
+- [ ] Ensure that all three daily scrum questions have been answered.
+- [ ] All of the above.
+
+
+### Which phrase best describes a Product Owner? (choose the best option)
+- [ ] Requirements engineer.
+- [ ] Go-between between the developers and customers.
+- [ ] Team manager.
+- [x] Value optimizer.
+
+
+### Which statement best describes a sprint backlog? (choose the best three options)
+- [x] It is a set of Product Backlog items selected for the Sprint.
+- [x] It contains why they are building the increment.
+- [x] It is Developers's actionable plan for delivering the Increment.
+- [ ] List of all tasks estimated in hours
+- [ ] It is a list of items & the designated owner of those items.
+- [ ] It is an ordered list of product backlog items by the Developers.
+
+### In the middle of the Sprint, Developers find that they have more room for additional work. They decide to change the Sprint Backlog by adding few more backlog items from the Product Backlog. Who should be present to decide the additional work and accordingly modify the Sprint Backlog? (choose the best two options)
+- [x] Developers.
+- [ ] Senior members of the Scrum Team.
+- [ ] Scrum Master.
+- [ ] Scrum Team.
+- [x] Product Owner.
+
+### True or False, A properly functioning self-managed Scrum team is evaluated by at least one release Sprint.
+- [ ] True
+- [x] False
+
+### If another Scrum Team is added for developing the same product, what will be the immediate impact on the productivity of the original Scrum Team? (Choose the best option) 
+- [x] Productivity is likely to decrease.
+
+- [ ] Productivity is likely to stay the same.
+
+- [ ] Productivity can’t be predicted.
+
+- [ ] Productivity is likely to increase.
+
+
+### True or False, Scrum is a methodology that provides process and guidance.
+- [ ] True
+- [x] False
+
+### One of the development stages you would expect to see an Agile team go through? (choose the best option)
+- [ ] Cloning.
+- [x] Storming.
+- [ ] Warming.
+- [ ] Yawning.
+
+
+### What are some of the advantages of smoke testing? (choose the best three options)
+- [x] Uncovers problems early.
+
+- [x] Provides a level of confidence in changes to software not having adverse effects.
+
+- [ ] The risks associated with the product/software are reduced and in turn, the loss is also reduced.
+
+- [x] Exposes integration issues.
+
+- [ ] It ensures that all the requirements are met.
+
+
+### The heart of Scrum is a Sprint.  Which statements are true about the Sprint length? (choose the best three options)
+
+- [x] All Sprints must be one month or less.
+
+- [ ] Sprint length is determined during Sprint Planning and should be long enough to make sure the Developers can deliver what is to be accomplished in the upcoming Sprint.
+
+- [x] If Developers want to change sprint length, the new Sprint length needs to be agreed upon by the Product Owner.
+
+- [ ] Sprint length is determined during Sprint Planning and should hold the time it will take to code the planned features in the upcoming Sprint.
+
+- [x] It is best to have Sprints of consistent length throughout a development effort.
+
+- [ ] The length of the Sprint should be proportional to the work that is done during Sprints.
+
+
+### Which questions best describe the discussion items covered in the Sprint Planning Meeting? (choose the best option)
+- [ ] Why, when and how to do it.
+- [ ] Why, what and who will do it.
+- [ ] What went wrong in the last Sprint and what to do differently this Sprint.
+- [x] Why, what and how to do it.
+- [ ] What and how to do it.
+
+
+### Scrum employs an iterative, incremental approach to optimize predictability and control risk. Select the options which are correct about the Scrum framework. (Choose the best three options) Scrum is based on empirical process control theory which asserts that knowledge comes from experience and making decisions based on what is known.
+- [x]Scrum is based on empirical process control theory which asserts that knowledge comes from experience and making decisions based on what is known.
+- [x] Scrum is based on Lean thinking which reduces waste and focuses on the essentials.
+- [x] In the Scrum framework, each component of Scrum serves a specific purpose and is essential to the overall value and results realized with Scrum.
+- [ ] Scrum is a methodology with high flexibility and you can tailor it as per your team’s need e.g. events specified in Scrum Framework can be skipped.
+- [ ] Scrum is the same as any other development methodology but due to self-organization Project Managers are not required.
+
+### What are the benefits of self-management? (choose the best three options)n
+- [x] Increased self-accountability.
+- [x] Increased commitment.
+- [] Increased rule compliance.
+- [x] Increased creativity.
+- [] Increased predictability.
+
+### Definition of Done may vary significantly per Scrum Team but how does Definition of Done help the Scrum Team? (choose the best three options)
+- [] Definition of Done helps to calculate the velocity of the Scrum Team.
+- [] Definition of Done helps in inspection and adaptation.
+- [x] Definition of Done ensures artifact transparency by providing everyone a shared understanding of what work was completed as part of the Increment.
+- [x] Definition of Done guides developers to decide how many Product Backlog items can be selected during Sprint Planning.
+- [x] Definition of Done is used to assess when work is complete in terms of quality measures required for the product Increment.
+
+### In big organizations, multiple Scrum Teams often work together on the same product. In this situation how would a Scrum Team define the definition of done? (choose the best option)
+- [x] All Scrum Teams must have a mutually defined and comply with the same definition of done and when their work integrates the results should be potentially releasable.
+- [] Define individual definitions of done and make it clear to all other Teams if there are differences.
+- [] They must follow only organization standards as that is uniform across all teams.
+- [] It is defined by each Developer for their own use. Then they discuss the differences and reconcile them during the stabilization phase.
+
+### True or False, The primary reason for choosing a four-week Sprint is when the work is too large for a two-week Sprint and cannot be decomposed further. (choose the best option)
+- [ ] True
+- [x] False
+
+### During the Sprint execution, the Developers determine that they will not be able to finish & deliver a few work items selected for the sprint. Whom should they involve in reviewing the work items and adjusting the selected Sprint backlog? (choose the best option)
+
+- [ ] The Scrum Master, the project manager, and the Developers.
+
+- [x] The Product Owner.
+
+- [ ] Subject Mater Expert.
+
+- [ ] The Product Owner and all stakeholders.
