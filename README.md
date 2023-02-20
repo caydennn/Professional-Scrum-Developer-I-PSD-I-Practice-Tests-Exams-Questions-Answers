@@ -3376,3 +3376,47 @@ integrated increments? Choose one answer
 - [ ] Subject Mater Expert.
 
 - [ ] The Product Owner and all stakeholders.
+
+### Does delivering changes frequently and directly into production help to reduce risk? 
+- [x] Yes, because the changes you make are much smaller and it is easier to fix problems.
+
+- [ ] No, because each release means a risk to break something so releasing more frequently would increase the risk.
+
+- [ ] Yes, because frequent releases encourage the Developers to automate the release process.
+
+- [x] Yes, because you get earlier feedback and can learn faster
+
+- [ ] No, the only way to tackle these risks is by extensive risk management.
+
+- [ ] No, because releasing needs extensive testing which cannot be conducted frequently.
+
+### Which of the following are the Developers accountable for? (choose the best two answers) 
+- [ ] Reporting productivity.
+
+- [ ] Selecting the Product Owner.
+
+- [x] Creating a plan for the Sprint, the Sprint Backlog.
+
+- [x] Organizing the work required to meet the Sprint Goal.
+
+
+### Which two things are appropriate for a Scrum Master to do, if the Scrum Team does not have the tools and environment to completely finish each selected Product Backlog item?
+- [x] Have the Scrum Team establish a Definition of Done that is actually possible to achieve given current circumstances.
+
+- [x] Coach the Scrum Team to improve its skills, tools and environment over time and adjust the Definition of Done accordingly.
+
+- [ ] Declare the Scrum Team not ready for Scrum.
+
+- [ ] Refocus the current Sprint on establishing the Scrum Team's environment instead of delivering an Increment.
+
+- [ ] Encourage the Product Owner to accept partially done Increments until the situation improves.- [ ] 
+
+
+### Which concept is described by the Last Responsible Moment? (choose the best answer) 
+- [ ] Making decisions as soon as possible to close feedback loops as soon as possible.
+
+- [ ] The last moment a Developer is responsible for quality, after this the Tester is responsible.
+
+- [x] Discover decisions to be made as soon as possible but postpone making those decisions until the latest reasonable moment
+
+- [ ] (CAN CHOOSE THIS TOO IF MORE THAN ONE OPTION) The last moment in a sprint when code changes are allowed, after this only stabilization work should be conducted.
