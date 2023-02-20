@@ -3024,3 +3024,33 @@ _[⬆ Back to Top](#table-of-contents)_
 - [ ] Determinine the number of unit tests required to ensure correctness.
 - [ ] Demonstratin code is well structured and cleanly implementd.
 - [x] Measuring branching structures and nesting levels in code.
+
+
+### Which are the best three criteria to include in a Development Team’s defini‐
+tion of “Done”? Choose 3 answers.
+
+- [ ] Regressoin Tests pass
+- [x] No impediments exist
+- [x] Code review is done
+- [ ] The product is released at the end of every Sprint.
+- [x] Acceptance Test pass
+
+### Which are NOT appropriate for discussion in a Sprint Retrospective?
+Choose one answer
+
+- [ ] How the team does its work
+- [ ] The value of work currently represented in the Product Backlog
+- [x] Sprint Backlog for the next Sprint
+- [ ] Team relations
+- [ ] Definition of “DONE
+
+
+### What is the best suited structure for Development Teams in order to produce
+integrated increments? Choose one answer
+
+- [ ] Each Development Team works only on one technical layer of the system (e.g. GUI, Database, Middle tier, interfaces)
+- [ ]  Each Development Team develops functionality from beginning to end throughout all technical layers
+
+
+
+
