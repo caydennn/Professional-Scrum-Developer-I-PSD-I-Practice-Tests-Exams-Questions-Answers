@@ -3463,3 +3463,169 @@ integrated increments? Choose one answer
 - [x] When it is small enough to be done within a Sprint, they are deemed to be “Ready”.
 
 - [x] When the details are sufficient so that the developers can commit to doing so and can estimate it.
+
+
+### True or False, In Scrum, Team Velocity is a good metric to track the progress of product development.
+- [ ] True
+
+- [x] False
+
+### True or False, Scrum Teams should normalize their estimations, so that management can measure and compare their performance.
+- [ ] True
+
+- [x] False
+
+
+###  How should Developers deal with non-functional requirements? (choose the best option)
+
+- [ ] Handle them during the Integration Sprint preceding the Release Sprint.
+
+- [ ] Assign them to the lead developers on the team.
+
+- [ ] Make sure the release department understands these requirements, but it is not the Developer’s responsibility.
+
+- [x] Ensure every Increment meets them
+
+### A shared set of development and technology standards developers apply to create releasable Increments of software is called? (choose the best option)
+- [ ] Collective Code Ownership.
+
+- [ ] Feature Toggle.
+
+- [ ] Code Coverage.
+
+- [x] Engineering Standards.
+
+### Regression Testing is: (choose the best option)
+- [ ] Extensive Testing to make sure that every functionality works as expected.
+
+- [ ] Testing which cannot be automated.
+
+- [x] Testing the existing software to make sure that a change or addition (of code) hasn't broken existing functionality.
+
+- [ ] All of the above.
+
+
+### Empiricism provides (choose the best three options)
+- [x] Frequent opportunities for continuous improvement, and the ability to adapt based on the results of the inspection.
+
+- [ ] Frequent opportunities to get information using which uncertainty can be completely eliminated.
+
+- [x] Frequent opportunities to make informed decisions, thus reducing risk.
+
+- [x] Frequent opportunities to discuss different possibilities.
+
+### What should a Scrum Team do if the Developers are not aligned with a clear standard for creating releasable software?(1 Point)
+- [ ] For each item in the Sprint, create a checklist to verify its completion.
+
+- [ ] Ask the Product Owner to define a standard to follow.
+
+- [ ] Ask the Scrum Master to define a standard to follow.
+
+- [x] As a Scrum Team, specify a shared Definition of Done.
+
+### The test which checks whether a piece of software can run with no defects in a certain environment for a certain time is called? (choose the best option)
+- [ ] Scenario structure.
+
+- [x] Reliability test.
+
+- [ ] Obliviousness.
+
+- [ ] Acceptance Testing.
+
+
+### Which of the following activities should a newly formed Scrum team focus on?
+- [x] Have the Product Owner share and discuss the Product Goal.
+
+- [x] Create a Definition of Done and ensure that there is a shared understanding of it.
+
+- [ ] Configure the electronic project management system.
+
+- [ ] Decide what the team’s velocity will be.
+
+
+### Which of the following techniques would likely be the least effective way of fostering communication between the Developers and Product Owner (choose the best option)
+
+- [ ]  Actively monitor how the two parties are communicating.
+
+- [ ]  Coach the Product Owner so they understand, to the extent practical, the technical details of the work being performed.
+
+- [ ]  Coach the Developers to describe their work from a ‘business needs’ context.
+
+- [x]  Assume a liaison role between both parties.
+
+### A Scrum board is an often-used means to visualise progress on a Sprint Backlog
+- [x] True
+
+- [] False
+
+### DevOps bridges the gap between dev and ops in terms of (Choose all applicable options)
+- [x] Mindset.
+
+- [x] Skills.
+
+- [x] Practices.
+
+- [] Cross-functionality.
+
+- [x] Silo-Mentality.
+
+
+### Which is true about Sandbox in software development? 
+- [] It is a type of integration test.
+
+- [x] It is known as a test server or development server.
+
+- [x] It can be used for independent evaluation, monitoring, or testing.
+
+- [x] A type of software testing environment isolated from the production or live environment.
+
+
+### True or False, Pair programming configuration could be two developers working with one machine or a programmer and a tester working together, on the same machine.
+- [] True
+
+- [x] False
+
+
+### How frequently product releases should occur? (choose the best option)
+- [] Every 3 months.
+
+- [] Every Sprint.
+
+- [] At least every 6 months.
+
+- [] By the end of Product development.
+
+- [x] Frequently enough to eliminate the risk that the product’s value will get out of line with the marketplace.
+
+
+### Agile software development practice based on TDD and ATDD that calls for using realistic examples from past experience instead of untested or abstract statements in the description of the desired functional behavior is called? (choose the best option)
+- [] Refactoring.
+
+- [x] Specification by Example.
+
+- [] Extreme Programming (XP)
+
+- [] Continuous Integration (CI)
+
+
+### Which of the following are valid SOLID Object Oriented (OO) design principles?
+- [x] Liskov Substitution Principle.
+
+- [x] Open/Closed Principle.
+
+- [] Dependency Integration Principle.
+
+- [x] Single Responsibility Principle.
+
+- [] Interface Substitution Principle.
+
+### Which statements are correct about the definition of “Done”? (choose the best three options)
+- [x] If multiple Scrum Teams are working on the same product, the Scrum Teams must mutually agree on a definition of "Done".
+
+- [] Every Scrum Team in the organization should have a common definition of "Done".
+
+- [] The Product Owner should create the Definition of "Done" in Sprint Planning.
+
+- [x] A development organization may have standards, conventions, or guidelines for the Definition of Done.
+
+- [x] Scrum Teams may expand their definitions of "Done" for higher quality but as a minimum must follow the Definition of Done if it is part of the standards of the organization.
