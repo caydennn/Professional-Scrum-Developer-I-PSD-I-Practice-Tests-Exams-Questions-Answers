@@ -3346,22 +3346,22 @@ integrated increments? Choose one answer
 ### What are the benefits of self-management? (choose the best three options)n
 - [x] Increased self-accountability.
 - [x] Increased commitment.
-- [] Increased rule compliance.
+- [ ] Increased rule compliance.
 - [x] Increased creativity.
-- [] Increased predictability.
+- [ ] Increased predictability.
 
 ### Definition of Done may vary significantly per Scrum Team but how does Definition of Done help the Scrum Team? (choose the best three options)
-- [] Definition of Done helps to calculate the velocity of the Scrum Team.
-- [] Definition of Done helps in inspection and adaptation.
+- [ ] Definition of Done helps to calculate the velocity of the Scrum Team.
+- [ ] Definition of Done helps in inspection and adaptation.
 - [x] Definition of Done ensures artifact transparency by providing everyone a shared understanding of what work was completed as part of the Increment.
 - [x] Definition of Done guides developers to decide how many Product Backlog items can be selected during Sprint Planning.
 - [x] Definition of Done is used to assess when work is complete in terms of quality measures required for the product Increment.
 
 ### In big organizations, multiple Scrum Teams often work together on the same product. In this situation how would a Scrum Team define the definition of done? (choose the best option)
 - [x] All Scrum Teams must have a mutually defined and comply with the same definition of done and when their work integrates the results should be potentially releasable.
-- [] Define individual definitions of done and make it clear to all other Teams if there are differences.
-- [] They must follow only organization standards as that is uniform across all teams.
-- [] It is defined by each Developer for their own use. Then they discuss the differences and reconcile them during the stabilization phase.
+- [ ] Define individual definitions of done and make it clear to all other Teams if there are differences.
+- [ ] They must follow only organization standards as that is uniform across all teams.
+- [ ] It is defined by each Developer for their own use. Then they discuss the differences and reconcile them during the stabilization phase.
 
 ### True or False, The primary reason for choosing a four-week Sprint is when the work is too large for a two-week Sprint and cannot be decomposed further. (choose the best option)
 - [ ] True
@@ -3556,7 +3556,7 @@ integrated increments? Choose one answer
 ### A Scrum board is an often-used means to visualise progress on a Sprint Backlog
 - [x] True
 
-- [] False
+- [ ] False
 
 ### DevOps bridges the gap between dev and ops in terms of (Choose all applicable options)
 - [x] Mindset.
@@ -3565,13 +3565,13 @@ integrated increments? Choose one answer
 
 - [x] Practices.
 
-- [] Cross-functionality.
+- [ ] Cross-functionality.
 
 - [x] Silo-Mentality.
 
 
 ### Which is true about Sandbox in software development? 
-- [] It is a type of integration test.
+- [ ] It is a type of integration test.
 
 - [x] It is known as a test server or development server.
 
@@ -3581,31 +3581,31 @@ integrated increments? Choose one answer
 
 
 ### True or False, Pair programming configuration could be two developers working with one machine or a programmer and a tester working together, on the same machine.
-- [] True
+- [ ] True
 
 - [x] False
 
 
 ### How frequently product releases should occur? (choose the best option)
-- [] Every 3 months.
+- [ ] Every 3 months.
 
-- [] Every Sprint.
+- [ ] Every Sprint.
 
-- [] At least every 6 months.
+- [ ] At least every 6 months.
 
-- [] By the end of Product development.
+- [ ] By the end of Product development.
 
 - [x] Frequently enough to eliminate the risk that the product’s value will get out of line with the marketplace.
 
 
 ### Agile software development practice based on TDD and ATDD that calls for using realistic examples from past experience instead of untested or abstract statements in the description of the desired functional behavior is called? (choose the best option)
-- [] Refactoring.
+- [ ] Refactoring.
 
 - [x] Specification by Example.
 
-- [] Extreme Programming (XP)
+- [ ] Extreme Programming (XP)
 
-- [] Continuous Integration (CI)
+- [ ] Continuous Integration (CI)
 
 
 ### Which of the following are valid SOLID Object Oriented (OO) design principles?
@@ -3613,18 +3613,18 @@ integrated increments? Choose one answer
 
 - [x] Open/Closed Principle.
 
-- [] Dependency Integration Principle.
+- [ ] Dependency Integration Principle.
 
 - [x] Single Responsibility Principle.
 
-- [] Interface Substitution Principle.
+- [ ] Interface Substitution Principle.
 
 ### Which statements are correct about the definition of “Done”? (choose the best three options)
 - [x] If multiple Scrum Teams are working on the same product, the Scrum Teams must mutually agree on a definition of "Done".
 
-- [] Every Scrum Team in the organization should have a common definition of "Done".
+- [ ] Every Scrum Team in the organization should have a common definition of "Done".
 
-- [] The Product Owner should create the Definition of "Done" in Sprint Planning.
+- [ ] The Product Owner should create the Definition of "Done" in Sprint Planning.
 
 - [x] A development organization may have standards, conventions, or guidelines for the Definition of Done.
 
